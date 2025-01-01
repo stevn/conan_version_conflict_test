@@ -70,6 +70,11 @@ So in this simple scenario this works correctly in both Conan v1 and Conan v2.
 
 Now let's try harder to reproduce the "advanced" problem.
 
+## Cleanup cache
+
+- Run `./clean1.sh` to cleanup local Conan v1 cache.
+- Run `./clean2.sh` to cleanup local Conan v2 cache.
+
 ## Advanced scenario
 
 The problem is hard to reproduce and requires an advanced dependencies scenario.
