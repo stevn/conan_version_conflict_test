@@ -20,6 +20,9 @@ conan2 config home
 
 The problem could not be reproduced in this simple scenario.
 
+- Run `./create_simple1.sh` for Conan v1 testing of the simple scenario.
+- Run `./create_simple2.sh` for Conan v2 testing of the simple scenario.
+
 ### Requirements overview
 
 This dependency tree works OK:
@@ -70,6 +73,9 @@ Now let's try harder to reproduce the "advanced" problem.
 ## Advanced scenario
 
 The problem is hard to reproduce and requires an advanced dependencies scenario.
+
+- Run `./create_advanced1.sh` for Conan v1 testing of the advanced scenario.
+- Run `./create_advanced2.sh` for Conan v2 testing of the advanced scenario.
 
 ### Requirements overview
 
